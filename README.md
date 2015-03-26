@@ -16,7 +16,8 @@ Java—para desarrollar y ejecutar software de aplicaciones en el lenguaje de pr
 
 Java EE (Java Enterprise Edition): es la versión más grande de JAVA y se utiliza por lo general para crear aplicaciones grandes de cliente/servidor y para desarrollo de WebServices.
 
-----J2EE es la version enterprise de java.Añade a la J2SE nuevas clases e interfaces para realizar aplicaciones web y cliente/servidor
+----J2EE es la version enterprise de java.Añade a la J2SE nuevas clases e interfaces para realizar aplicaciones web y cliente/servidor.
+
 Para poder usar J2EE se requiere tener instalado previamente J2SE.
 
 
