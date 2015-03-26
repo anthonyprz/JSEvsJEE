@@ -29,4 +29,4 @@ Para poder usar J2EE se requiere tener instalado previamente J2SE.
 
 
 ----Que es una API-----
-Una API (Application Programming Interface) es un conjunto de reglas (código) y especificaciones que las aplicaciones pueden seguir para comunicarse entre ellas: sirviendo de interfaz entre programas diferentes de la misma manera en que la interfaz de usuario facilita la interacción humano-software.
+Una API (Application Programming Interface) es un conjunto de reglas (código) y especificaciones que las aplicaciones pueden seguir para comunicarse entre ellas: sirviendo de interfaz entre programas diferentes de la misma manera en que la interfaz de usuario facilita la interacción humano-software.  Es una especificación formal sobre cómo un módulo de un software se comunica o interactúa con otro.
