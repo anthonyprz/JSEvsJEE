@@ -6,6 +6,7 @@ Java Platform, Standard Edition, es una colección de APIs del lenguaje de progr
 Java útiles para muchos programas de la Plataforma Java.
 
 Java SE (Java Standart Edition): esta es la versión estándar de la plataforma, es decir, la que la mayoría usa para desarrollar sus aplicaciones de escritorio o de la web, fue la que originalmente fue desarrollada por Sun.
+
 ----J2SE es la version estandar de java.Es la api base del lenguaje.
 
 
